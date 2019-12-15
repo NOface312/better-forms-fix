@@ -14,7 +14,7 @@ def read(fname):
 
 
 setup(
-    name='django-betterforms-smallrework',
+    name='django-betterforms',
     version=version,
     description=__doc__,
     long_description=read('README.rst'),
